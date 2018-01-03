@@ -1,5 +1,5 @@
 # HTML-Extractor
-This will extract the innerHTML pf a particular tag from all the HTMLs of the application and will save it on particular directory in JSON format.
+This will extract the innerHTML of a particular tag from all the HTMLs of the application and will save it on particular directory in JSON format.
 
 # Enviroment Setup 
 Install nodejs
